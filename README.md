@@ -129,5 +129,4 @@ Lastly, in Chrome 1-3 we could use the Gears Database API, but out of all of the
 ###Contact Me!
 The easiest and most likely fastest way is to tweet me: @oscargodson
 
-
 If you don't have twitter feel free to email me at oscargodson /at/ gmail
